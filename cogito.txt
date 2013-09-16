@@ -1,1 +1,2 @@
 Cogito ergo sum
+Add a message
